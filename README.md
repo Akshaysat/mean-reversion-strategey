@@ -1,5 +1,4 @@
 # mean-reversion-strategey
-
 This Strategy is based on the concept of mean reversion. Everything in this universe has a tendency to return to its mean value.
 This strategy is used for equity derivatives on NSE.
 The major scans of this strategy are:
